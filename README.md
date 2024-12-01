@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**VectorAxell/VectorAxell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
 zipを展開するまえにプロパティのセキュリティの□にチェックを入れてください。
 Aspose.Imaging
 OpenCvSharp4.Windows
@@ -25,5 +20,3 @@ string ImgFilePath =
 フォームは、デバックと100倍(120)倍スケールに変更しますのところを交互にやると正常に表示されます。
 読みずらいので、READMEはダウンロード後のファイルでお読みください。
 
-
--->
