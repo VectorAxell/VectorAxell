@@ -10,6 +10,7 @@ OpenCvSharp4.Extensions
 右上にダイアログが出るので、下のテキストボックスにご自身のcapimgまでの絶対パスをコピペしてください。
 ソリューション全体にして置換してください。
 capimgフォルダをプロジェクトに作成してください。
+256×256のjpgファイルを入れてください。
 string ImgFilePath =
     $@"C:\Users\mizot\Desktop\VectorApp\VectorAngleHakarukunSecond\capimg\cap{exitImgFileNameIndex}.jpg";
     exitImgFileNameIndex = Int32.Parse(ImgfileNameChar[70].ToString());
